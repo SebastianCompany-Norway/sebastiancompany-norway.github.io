@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Verifikasjonsfil for domeneeierskap for Microsoft 365 – sted i nettstedsroten",
+  "Domain": "sebastiancompany-norway.github.io",
+  "Id": "22ee777f-a28e-4371-826e-1bd109d0155e"
+}
